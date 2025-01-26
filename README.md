@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript. The `add` function is defined to accept two number arguments, but the code attempts to call it with a string argument, resulting in a type error.  The solution showcases how to use type guards or type assertions to handle this issue effectively. 
